@@ -1,13 +1,10 @@
 <?php
 /*
 |--------------------------------------------------------------------------
-| OWSA-INV V2
+| SISTEMA DE BODEGA
 |--------------------------------------------------------------------------
-| Author: Siamon Hasan
-| Project Name: OSWA-INV
-| Version: v2
-| Offcial page: http://oswapp.com/
-| facebook Page: https://www.facebook.com/oswapp
+| DSI 2
+| Version: v1
 |
 |
 |
@@ -18,6 +15,3 @@
   define( 'DB_NAME', 'oswa_inv' );        // Set database name
 
 ?>
-
-
-//dsi2bodega.260mb.net
