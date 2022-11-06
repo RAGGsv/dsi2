@@ -7,7 +7,7 @@
            echo remove_junk($page_title);
             elseif(!empty($user))
            echo ucfirst($user['name']);
-            else echo "Sistema simple de inventario";?>
+            else echo "Sistema simple de entradas y salidas para bodega";?>
     </title>
 	
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"/>
@@ -17,7 +17,7 @@
   <body>
   <?php  if ($session->isUserLoggedIn(true)): ?>
     <header id="header">
-      <div class="logo pull-left"> OSWA - Inventory </div>
+      <div class="logo pull-left"> DSI 2 - Sistema para Bodega </div>
       <div class="header-content">
       <div class="header-date pull-left">
         <strong><?php echo date("d/m/Y  g:i a");?></strong>
