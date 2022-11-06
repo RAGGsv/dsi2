@@ -56,7 +56,7 @@
         <div class="panel-heading">
           <strong>
             <span class="glyphicon glyphicon-th"></span>
-            <span>Agregar producto</span>
+            <span>Agregar Material</span>
          </strong>
         </div>
         <div class="panel-body">
