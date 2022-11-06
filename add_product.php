@@ -123,7 +123,7 @@
                   </div>
                </div>
               </div>
-              <button type="submit" name="add_product" class="btn btn-danger">Agregar producto</button>
+              <button type="submit" name="add_product" class="btn btn-danger">Agregar Material</button>
           </form>
          </div>
         </div>
