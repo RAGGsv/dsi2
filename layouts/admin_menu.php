@@ -25,7 +25,7 @@
     <a href="#" class="submenu-toggle">
       <i class="glyphicon glyphicon-th-large"></i>
       <span>Materiales</span>
-    </a>
+    </a>x
     <ul class="nav submenu">
        <li><a href="product.php">Administrar Materiales</a> </li>
        <li><a href="add_product.php">Agregar marteriales</a> </li>
